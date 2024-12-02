@@ -1,0 +1,21 @@
+<resources>
+    <string name="Textultimo"></string>
+    <string name="app_name">sistema_ingles_a_metrico</string>
+    <string name="Text1">Select the unit to measure</string>
+    <string-array name="Spinner1">
+        <item>Inch</item>
+        <item>Centimeters</item>
+        <item>Milimeters</item>
+
+        <item>yards</item>
+        <item>feet</item>
+        <item>Meters</item>
+
+
+    </string-array>
+
+
+    <string name="EditT">Enter the amount</string>
+    <string name="Boton">Calculate</string>
+
+</resources>

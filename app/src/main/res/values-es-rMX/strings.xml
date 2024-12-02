@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Textultimo"></string>
+    <string name="app_name">sistema_ingles_a_metrico</string>
+    <string name="Text1">seleccione la unidad a convertir</string>
+    <string-array name="Spinner1">
+        <item>Pulgadas</item>
+        <item>Centimetros</item>
+        <item>Milimetros</item>
+
+        <item>yardas</item>
+        <item>pies</item>
+        <item>metros</item>
+
+
+    </string-array>
+
+
+    <string name="EditT">ingrese la cantidad</string>
+    <string name="Boton">Calcular</string>
+</resources>
